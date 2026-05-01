@@ -1,0 +1,3 @@
+
+#include "myTest.h"
+int number = 10000;
